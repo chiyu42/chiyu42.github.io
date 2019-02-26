@@ -1,0 +1,36 @@
+
+
+header{
+  background-color: pink
+  padding: 120px;
+}
+
+body{
+  text-align: center;
+}
+body{
+  width: auto;
+  height: auto;
+ border: 25px solid hotpink;
+ padding: 25px;
+ margin: 25px;
+}
+*{font-family: "Arial"}
+#navigation li{
+  text-decoration-color: white;
+  text-align: center;
+  float: left;
+  width: 100px;
+  display: block;
+  margin-left: 120px;
+  margin-top: 50px;
+  margin-bottom: 50px
+}
+.des{
+  color:hotpink;
+  text-align: center;
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+
+}
