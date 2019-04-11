@@ -1,0 +1,7 @@
+.col-4 img{
+  width: 75%;
+  height: inherit;
+}
+.col-4{
+  background-color: none;
+}
