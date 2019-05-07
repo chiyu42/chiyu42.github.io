@@ -1,0 +1,84 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.workspace{
+    background-image: url("3.png");
+    background-repeat: round;
+}
+.navbar .navbar-expand-lg .navbar-light .bg-light{
+    position: fixed;
+  z-index:999;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.container{
+    position: fixed;
+    width: auto;
+    margin-left: 30%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+
+}
+.container h6{
+    position: center;
+    font-size: 800%;
+}
+#italic{
+    font-style: italic;
+    font-size: 900%;
+}
+
+.container-signup{
+    position: fixed;
+    width: 33%;
+    margin-left: 33%;
+    margin-top: 7%;
+    background:rgba(255,255,255,0.7);
+}
+
+.row{
+    margin-top: 0%;
+    margin-bottom: 1%;
+}
+
+.navbar-brand{
+    font-style: italic;
+    font-size: 150%;
+    padding-left: 4%;
+    padding-right: 2%;
+}
+
+.card{
+   
+    background:rgba(255, 255, 255, 0.7);
+}
+
+
+#myVideo {
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  
+
+  .content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .content p{
+      margin-bottom: 0%;
+      margin-left: 45%;
+  }
+  
+ 
